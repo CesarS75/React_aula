@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.caixa {
+    background-color: rgb(141, 108, 108);
+}
+
+.caixa p {
+    text-align: end;
+}
+
+.img {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    color: whitesmoke;
+    background-color: rgb(243, 215, 122);
+    justify-content: center;
+    align-items: center; 
+    background-image: url("background2.jpg");
+    background-size: cover;
+}
